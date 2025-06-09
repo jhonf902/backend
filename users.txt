@@ -1,0 +1,9 @@
+admin
+usuario
+prueba
+jhon
+
+juan@example.com
+otro@correo.com
+admin@example.com
+admin@email.com
